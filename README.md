@@ -3,7 +3,10 @@
 
 This project aims to predict liver disease in patients using various machine learning algorithms. It involves data preprocessing, feature engineering, and model evaluation. The dataset used for this project is the "Indian Liver Patient Dataset."
 
+Original file is located at
+    https://colab.research.google.com/drive/1AGMlE8i9S1H5hnoAQ-QJ4rmQhuGwLiPk
 
+    
 
 ## Introduction
 
@@ -34,11 +37,6 @@ pip install -r requirements.txt
 Usage
 To run the project:
 
-Clone this repository:
-```bash
-Copy code
-git clone https://github.com/yourusername/liver-disease-prediction.git
-```
 Navigate to the project directory:
 ```bash
 
